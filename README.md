@@ -8,4 +8,4 @@ Instacart is an online grocery store that operates through an app. They would li
 
 ### Data
 
-The open-source dataset is available on Instacart's website and can be located [here]https://www.instacart.com/datasets/grocery-shopping-2017
+The open-source dataset is available on Instacart's website and can be located [here](https://www.instacart.com/datasets/grocery-shopping-2017)
